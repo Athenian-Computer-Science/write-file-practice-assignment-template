@@ -1,25 +1,11 @@
-# Master CT Assignment Template 
-
-Use this master template to create CT Assignment Templates.
+# Writing Files Practice
 
 ## Problem Description
-Problem description goes here. 
+First, use [write_practice.py](write_practice.py) to practice writing and appending to files. 
 
-* Steps to take go here. 
+Next, create, write and then append to a file as instructed in [my_code.py](mycode.py).
 
-## Example
-```
-Value to increment? 5
-10
-```
+Finally, run `pytest` to be sure your program meets the requirements. 
 
-## Suggested Approach
-1) Suggestions go here
 
-## Hints
-* Use the section under `if __name__ == '__main__': ` to change arguments and check your work.
-* When you are happy with your code, use `input()` to prompt the user for a value.
-* Add code to [my_code.py](./my_code.py) to make it do the desired thing.
-* Run your code with: `python my_code.py` or the run button
-* Run your tests with: `pytest`
 
